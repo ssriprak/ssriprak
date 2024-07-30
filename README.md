@@ -1,5 +1,5 @@
 # Hi 👋, I'm Saujanya Sriprakash
-A passionate Data Analyst with I am Aspiring Data/business analyst with 2 years of experience, skilled in Excel, SQL, PowerBI, and Tableau. I am currently a masters student in ASU. I currently live in Arizona. I’m currently learning data science algortihms and recommendation systems
+I am Aspiring Data/business analyst with 2 years of experience, skilled in Excel, SQL, PowerBI, and Tableau. I am currently a masters student in ASU. I currently live in Arizona. I’m currently learning data science algortihms and recommendation systems
 
 - 📫 How to reach me: _sriprakashsaujanya@gmail.com_
 
