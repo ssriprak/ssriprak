@@ -1,13 +1,40 @@
-# Hi 👋, I'm Saujanya Sriprakash
-I am Aspiring Data/business analyst with 2 years of experience, skilled in Excel, SQL, PowerBI, and Tableau. I am currently a masters student in ASU. I currently live in Arizona. I’m currently learning data science algortihms and recommendation systems
+# Hi there 👋 I'm Saujanya Sriprakash
 
-- 📫 How to reach me: _sriprakashsaujanya@gmail.com_
+🎓 **Master’s in Information Technology (Big Data Analytics)** – Arizona State University  
+💻 **2+ years experience** in Data Engineering, Analytics, and Software Engineering  
+🚀 Passionate about building **scalable data pipelines**, **advanced visualizations**, and applying **AI to cybersecurity** and real-world problems.
 
-- ⚡ Fun fact: _I am a very serious bibliophile_
+---
 
-# Languages and Tools:
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 🚀 What I Do
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssriprak&show_icons=true&locale=en" alt="ssriprak" /></p>
+- 🔄 Design and develop robust **ETL/ELT pipelines** using Python, SQL, Linux scripting, and Big Data tools (Hadoop, Hive, HDFS).
+- 🛠️ Create **interactive dashboards** and data stories with Tableau and Power BI for business performance and insights.
+- ☁️ Work with **Cloud Platforms** (AWS: Redshift, S3, CodePipeline) to scale data workflows.
+- 🔍 Apply AI/ML for solving security problems — recent project: **Malicious URL Detection System**.
+- 🔐 Build applications integrating **Asymmetric Encryption** and security best practices.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssriprak&" alt="ssriprak" /></p>
+---
+
+## 🌟 Featured Projects
+
+---
+
+## 📈 My Skills
+
+**Languages**: Python, SQL, Java, C++, Linux Shell Scripting  
+**Big Data**: Hadoop, Hive, HDFS  
+**Databases**: Oracle SQL, MySQL, AWS Redshift  
+**Cloud**: AWS (Redshift, S3, CodePipeline)  
+**Visualization**: Tableau, Power BI  
+**Other**: CI/CD, ETL/ELT, Data Modeling, Data Architecture, Security Analytics
+
+---
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/saujanya-sriprakash/)  
+- Email: sriprakashsaujanya@gmail.com
+---
+
+_**“Turning data into impact.”**_
