@@ -24,7 +24,7 @@
 
 **Languages**: Python, SQL, Java, C++, Linux Shell Scripting  
 **Big Data**: Hadoop, Hive, HDFS  
-**Databases**: Oracle SQL, MySQL, AWS Redshift  
+**Databases**: Oracle SQL, MySQL, AWS Redshift, PostGreSQL
 **Cloud**: AWS (Redshift, S3, CodePipeline)  
 **Visualization**: Tableau, Power BI  
 **Other**: CI/CD, ETL/ELT, Data Modeling, Data Architecture, Security Analytics
